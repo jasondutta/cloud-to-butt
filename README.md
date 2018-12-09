@@ -1,38 +1,7 @@
-cloud-to-butt
-=============
+Changes any mention of millennials to 'people under the age of 40', since by definition they were born from 1980 up until 1996. 
 
-![](logo.png)
+Then you'll see how ridiculous most of the headlines are.
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+We might mock them, but they are still normal people, so I, as a millennial, feel obliged to remind the world that there's a huge number of people like us out there.
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
-
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above, and therefore it did not replace your cloudflare URLs with buttflare URLs. Thank you for your concern.
-
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
-
-Installation
-------------
-
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+We live on this planet, and deserve to be treated and respected with the difficulties that arise, and that targeting us as spoiled or entitled is just ignorant.

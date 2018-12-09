@@ -1,0 +1,15 @@
+{
+"manifest_version": 2,
+    "name": "Millennials are people too",
+    "description": "Changes any mention of millennials to 'people under the age of 40', since by definition they were born from 1980 up until 1996. Then you'll see how ridiculous most of the headlines are.",
+    "version": "1.0",
+	"icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+    "content_scripts": [ {
+            "matches": [ "*://*/*" ],
+            "js": [ "content.js" ],
+            "run_at": "document_end"
+        }
+    ]
+}
