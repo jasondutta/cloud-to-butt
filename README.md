@@ -5,3 +5,7 @@ Then you'll see how ridiculous most of the headlines are.
 We might mock them, but they are still normal people, so I, as a millennial, feel obliged to remind the world that there's a huge number of people like us out there.
 
 We live on this planet, and deserve to be treated and respected with the difficulties that arise, and that targeting us as spoiled or entitled is just ignorant.
+
+Now on the Chrome store here:
+
+https://chrome.google.com/webstore/detail/millennials-are-people-to/nlgkimcegcpjbihecjbbohmmfnohapfg
